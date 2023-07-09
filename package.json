@@ -1,0 +1,11 @@
+{
+  "name": "typescript-handson-udemy",
+  "version": "1.0.0",
+  "description": "「JavaScriptエンジニアのためのハンズオンで学ぶTypeScript徹底入門 2023年最新版」をもとにTypeScriptの基礎（特に型）について学習する。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
