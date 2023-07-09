@@ -1,5 +1,5 @@
 // 動作確認用
-let message: string = 'Hello, TypeScript';
+let message: string = 'Hello, ts-node-dev!';
 
 console.log({ message });
 
